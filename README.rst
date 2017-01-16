@@ -8,6 +8,14 @@ Water density calculator
 * Free software: MIT license
 * Documentation: https://density-calc.readthedocs.io.
 
+Quick Usage - Docker
+--------------------
+
+.. code-block:: bash
+
+    $ docker pull m-housh/density_calc
+    $ docker run m-housh/density_calc TEMP
+
 
 Features
 --------
